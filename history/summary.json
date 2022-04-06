@@ -2,21 +2,21 @@
   {
     "name": "Loan-Details",
     "url": "http://efectivosi-azure.epidataconsulting.com/api/public/getAllLoans",
-    "icon": "https://www.google.com/favicon.ico",
+    "icon": "https://www.efectivosi.com.ar/assets/site/img/favicon.ico",
     "slug": "loan-details",
-    "status": "down",
-    "uptime": "19.56%",
-    "uptimeDay": "19.56%",
-    "uptimeWeek": "19.56%",
-    "uptimeMonth": "19.56%",
-    "uptimeYear": "19.56%",
-    "time": 1475,
-    "timeDay": 1475,
-    "timeWeek": 1475,
-    "timeMonth": 1475,
-    "timeYear": 1475,
+    "status": "up",
+    "uptime": "1.06%",
+    "uptimeDay": "1.06%",
+    "uptimeWeek": "1.06%",
+    "uptimeMonth": "1.06%",
+    "uptimeYear": "1.06%",
+    "time": 1199,
+    "timeDay": 1199,
+    "timeWeek": 1199,
+    "timeMonth": 1199,
+    "timeYear": 1199,
     "dailyMinutesDown": {
-      "2022-04-06": 0
+      "2022-04-06": 10
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 202,
-    "timeDay": 202,
-    "timeWeek": 202,
-    "timeMonth": 202,
-    "timeYear": 202,
+    "time": 184,
+    "timeDay": 184,
+    "timeWeek": 184,
+    "timeMonth": 184,
+    "timeYear": 184,
     "dailyMinutesDown": {}
   },
   {
@@ -48,31 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 70,
-    "timeDay": 70,
-    "timeWeek": 70,
-    "timeMonth": 70,
-    "timeYear": 70,
+    "time": 69,
+    "timeDay": 69,
+    "timeWeek": 69,
+    "timeMonth": 69,
+    "timeYear": 69,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Sitio roto",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
-    "slug": "sitio-roto",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-04-06": 997
-    }
   }
 ]
