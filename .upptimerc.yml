@@ -5,12 +5,12 @@ repo: cfa-azure-monitoreo # The name of this repository
 sites:
   - name: Loan-Details
     url: http://efectivosi-azure.epidataconsulting.com/api/public/getAllLoans
-    icon: https://www.google.com/favicon.ico
+    icon: https://www.efectivosi.com.ar/assets/site/img/favicon.ico
     method: POST
     expectedStatusCodes:
       - 200
       - 201
-      - 404
+      - 401
     headers:
     - "Content-Type: application/json"
     - "Client-Id: Test"
@@ -23,12 +23,9 @@ sites:
     url: https://efectivosi-azure.epidataconsulting.com
   - name: Google
     url: https://www.google.com
-  - name: Sitio roto
-    url: https://thissitedoesnotexist.koj.co
 
 assignees:
   - leonic15
-  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
