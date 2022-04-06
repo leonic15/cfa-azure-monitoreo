@@ -5,19 +5,17 @@
     "icon": "https://www.efectivosi.com.ar/assets/site/img/favicon.ico",
     "slug": "loan-details",
     "status": "up",
-    "uptime": "1.06%",
-    "uptimeDay": "1.06%",
-    "uptimeWeek": "1.06%",
-    "uptimeMonth": "1.06%",
-    "uptimeYear": "1.06%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1199,
     "timeDay": 1199,
     "timeWeek": 1199,
     "timeMonth": 1199,
     "timeYear": 1199,
-    "dailyMinutesDown": {
-      "2022-04-06": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Web Partners",
