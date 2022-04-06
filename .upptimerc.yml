@@ -3,9 +3,22 @@ owner: leonic15 # Your GitHub organization or username, where this repository li
 repo: cfa-azure-monitoreo # The name of this repository
 
 sites:
-  - name: Identity
-    url: https://efectivosi-azure.epidataconsulting.com/api/public/getToken
+  - name: Loan-Details
+    url: http://efectivosi-azure.epidataconsulting.com/api/public/getAllLoans
+    icon: https://www.google.com/favicon.ico
     method: POST
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+    headers:
+    - "Content-Type: application/json"
+    - "Client-Id: Test"
+    - "Scope: Test"
+    - "Authorization: test"
+    - "canal: test"
+    body: '{ }'
+  
   - name: Web Partners
     url: https://efectivosi-azure.epidataconsulting.com
   - name: Google
