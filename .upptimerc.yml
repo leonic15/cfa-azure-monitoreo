@@ -20,7 +20,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /cfa-azure-monitoreo
   logoUrl: https://media.licdn.cn/dms/image/C4E0BAQHY06rwmffzZQ/company-logo_200_200/0/1563368861383?e=2159024400&v=beta&t=tSZPtIC4FiJOtSP_ItGEoJtfe4S6kCSPJKvqBbNrHWg
   name: CFA Efectivo Si - Monitoreo
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
