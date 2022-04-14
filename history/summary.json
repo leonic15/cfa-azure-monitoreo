@@ -5,16 +5,16 @@
     "icon": "https://www.efectivosi.com.ar/assets/site/img/favicon.ico",
     "slug": "loan-details",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
-    "time": 2018,
-    "timeDay": 845,
-    "timeWeek": 2018,
-    "timeMonth": 2018,
-    "timeYear": 2018,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
+    "time": 1933,
+    "timeDay": 999,
+    "timeWeek": 815,
+    "timeMonth": 1933,
+    "timeYear": 1933,
     "dailyMinutesDown": {
       "2022-04-06": 47
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 121,
+    "time": 113,
     "timeDay": 2,
-    "timeWeek": 121,
-    "timeMonth": 121,
-    "timeYear": 121,
+    "timeWeek": 44,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 69,
-    "timeDay": 84,
-    "timeWeek": 69,
-    "timeMonth": 69,
-    "timeYear": 69,
+    "time": 70,
+    "timeDay": 79,
+    "timeWeek": 68,
+    "timeMonth": 70,
+    "timeYear": 70,
     "dailyMinutesDown": {}
   }
 ]
