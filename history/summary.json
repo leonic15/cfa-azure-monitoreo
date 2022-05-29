@@ -24,7 +24,7 @@
     "url": "https://efectivosi-azure.epidataconsulting.com",
     "icon": "https://favicons.githubusercontent.com/efectivosi-azure.epidataconsulting.com",
     "slug": "web-partners",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 43,
     "timeMonth": 46,
     "timeYear": 66,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-29": 0
+    }
   },
   {
     "name": "Google",
