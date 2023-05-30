@@ -5,18 +5,19 @@
     "icon": "https://www.efectivosi.com.ar/assets/site/img/favicon.ico",
     "slug": "loan-details",
     "status": "down",
-    "uptime": "12.95%",
+    "uptime": "12.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.50%",
-    "time": 583,
-    "timeDay": 126,
-    "timeWeek": 223,
-    "timeMonth": 193,
-    "timeYear": 184,
+    "uptimeYear": "0.23%",
+    "time": 579,
+    "timeDay": 140,
+    "timeWeek": 212,
+    "timeMonth": 192,
+    "timeYear": 176,
     "dailyMinutesDown": {
-      "2023-05-29": 78,
+      "2023-05-30": 79,
+      "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
@@ -379,8 +380,7 @@
       "2022-06-03": 1440,
       "2022-06-02": 1440,
       "2022-06-01": 1440,
-      "2022-05-31": 1440,
-      "2022-05-30": 163
+      "2022-05-31": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/efectivosi-azure.epidataconsulting.com.ico",
     "slug": "web-partners",
     "status": "down",
-    "uptime": "27.02%",
+    "uptime": "26.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "16.44%",
+    "uptimeYear": "16.42%",
     "time": 93,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2023-05-29": 78,
+      "2023-05-30": 79,
+      "2023-05-29": 1440,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
@@ -704,8 +705,7 @@
       "2022-08-01": 1440,
       "2022-07-31": 1440,
       "2022-07-30": 1440,
-      "2022-07-29": 111,
-      "2022-05-30": 1404
+      "2022-07-29": 111
     }
   },
   {
@@ -720,8 +720,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 116,
-    "timeWeek": 79,
+    "timeDay": 66,
+    "timeWeek": 80,
     "timeMonth": 99,
     "timeYear": 107,
     "dailyMinutesDown": {
