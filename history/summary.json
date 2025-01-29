@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-29": 295,
+      "2025-01-29": 317,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-29": 295,
+      "2025-01-29": 317,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
       "2025-01-26": 1440,
@@ -772,19 +772,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 110,
     "timeDay": 85,
-    "timeWeek": 141,
-    "timeMonth": 132,
+    "timeWeek": 136,
+    "timeMonth": 130,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-01-29": 0,
+      "2025-01-29": 22,
       "2024-05-01": 32
     }
   }
